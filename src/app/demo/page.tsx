@@ -1,7 +1,6 @@
 import { Button } from "../../components/ui/button";
 import { Inter } from "next/font/google";
 import Link from "next/link";
-
 import Footer from "../../components/footer/Footer";
 import { AppleLogo, Logo, One, Three, Two } from "../../components/icons";
 import Video from "../../components/video/Video";
